@@ -1,9 +1,5 @@
 # 基于多线程的电梯调度系统
 
-<p style="text-align:right">1652667 </p> 
-
-<p style="text-align:right">梁栎鹏</p> 
-
 [TOC]
 
 ## 一、项目分析
